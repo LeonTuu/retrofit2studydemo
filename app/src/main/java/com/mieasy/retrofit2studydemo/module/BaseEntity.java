@@ -1,10 +1,5 @@
 package com.mieasy.retrofit2studydemo.module;
 
-/**
- * @author yemao
- * @date 2017/4/9
- * @description 解析实体基类!
- */
 
 public class BaseEntity<T> {
     private static String SUCCESS_CODE="1";//成功的code

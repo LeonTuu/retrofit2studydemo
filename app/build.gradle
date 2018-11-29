@@ -26,7 +26,7 @@ android {
             minifyEnabled false
             signingConfig signingConfigs.release
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-            buildConfigField "String", "DOMAIN", "\"http://tomcat/pcw/\""
+            buildConfigField "String", "DOMAIN", "\"http://tomcat/\""
             buildConfigField "boolean", "LOG_DEBUG", "false"
         }
 
@@ -35,7 +35,6 @@ android {
             minifyEnabled false
             signingConfig signingConfigs.debug
             buildConfigField "boolean", "LOG_DEBUG", "true" //日志输出
-//            buildConfigField "String", "DOMAIN", "\"http://tomcat/pcw/\""
             buildConfigField "String", "DOMAIN", "\"http://gank.io/api/data/\""
         }
     }

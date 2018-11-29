@@ -13,9 +13,6 @@ import retrofit2.http.Headers;
 import retrofit2.http.POST;
 import retrofit2.http.Query;
 
-/**
- * Created by dell on 2017/4/1.
- */
 public interface IdeaApiService {
 
     /**
@@ -30,6 +27,6 @@ public interface IdeaApiService {
      * @author akf
      * */
     @Headers("Cache-Control: public, max-age=100")
-    @POST("VehApi2/SelectReportList.action")
+    @POST("")
     Observable<List<ReportListBean>> getDriverNum(@Query("driver") String driver);
 }

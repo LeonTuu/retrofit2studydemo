@@ -1,8 +1,5 @@
 package com.mieasy.retrofit2studydemo.download;
 
-/**
- * Created by jun on 2017/1/21.
- */
 
 public interface ProgressListener {
 

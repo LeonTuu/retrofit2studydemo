@@ -12,10 +12,6 @@ import android.widget.TextView;
 import com.mieasy.retrofit2studydemo.R;
 
 
-/**
- * Created by zhpan on 2017/4/13.
- */
-
 public class CustomProgressDialog extends Dialog {
     private View mDialogView;
     private boolean cancelTouchOutside;

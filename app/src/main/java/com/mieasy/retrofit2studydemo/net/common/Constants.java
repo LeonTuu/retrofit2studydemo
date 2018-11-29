@@ -1,8 +1,5 @@
 package com.mieasy.retrofit2studydemo.net.common;
 
-/**
- * Created by zhpan on 2018/2/1.
- */
 
 public interface Constants {
     /**

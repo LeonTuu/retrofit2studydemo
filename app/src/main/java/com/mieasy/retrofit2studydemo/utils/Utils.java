@@ -2,14 +2,6 @@ package com.mieasy.retrofit2studydemo.utils;
 
 import android.content.Context;
 
-/**
- * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 16/12/08
- *     desc  : Utils初始化相关
- * </pre>
- */
 public class Utils {
 
     private static Context context;

@@ -15,10 +15,6 @@ import io.reactivex.disposables.Disposable;
 import io.reactivex.functions.Action;
 import io.reactivex.functions.Consumer;
 
-/**
- * Created by zhpan on 2018/3/22.
- */
-
 public class ProgressUtils {
     public static <T> ObservableTransformer<T, T> applyProgressBar(
             @NonNull final Activity activity, String msg) {

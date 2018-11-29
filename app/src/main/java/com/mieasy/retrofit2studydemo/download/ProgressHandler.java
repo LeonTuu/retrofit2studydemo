@@ -4,9 +4,6 @@ import android.os.Handler;
 import android.os.Looper;
 import android.os.Message;
 
-/**
- * Created by jun on 2017/1/21.
- */
 
 public abstract class ProgressHandler {
 

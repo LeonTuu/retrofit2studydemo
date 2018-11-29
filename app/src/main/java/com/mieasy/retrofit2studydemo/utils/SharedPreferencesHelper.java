@@ -1,9 +1,5 @@
 package com.mieasy.retrofit2studydemo.utils;
 
-/**
- * Created by zhpan on 2017/5/25.
- * Description:处理SP缓存、支持存入基本数据类型以及对象
- */
 
 import android.content.Context;
 import android.content.SharedPreferences;

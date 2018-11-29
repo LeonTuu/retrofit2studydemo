@@ -3,9 +3,6 @@ package com.mieasy.retrofit2studydemo.download;
 import android.os.Looper;
 import android.os.Message;
 
-/**
- * Created by jun on 2017/1/21.
- */
 
 public abstract class DownloadProgressHandler extends ProgressHandler {
 

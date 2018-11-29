@@ -1,8 +1,5 @@
 package com.mieasy.retrofit2studydemo.module;
 
-/**
- * Created by zhpan on 2017/9/30.
- */
 
 public class MeiZi {
     /**

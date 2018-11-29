@@ -17,12 +17,6 @@ package com.mieasy.retrofit2studydemo.utils;
 
 import android.util.Log;
 
-
-/**
- * Log日志打印操作
- *
- * @author Weiss
- */
 public class LogUtils {
 
     private static final boolean DEBUG = true;

@@ -2,15 +2,6 @@ package com.mieasy.retrofit2studydemo.utils;
 
 import java.io.Closeable;
 import java.io.IOException;
-
-/**
- * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2016/10/9
- *     desc  : 关闭相关工具类
- * </pre>
- */
 public class CloseUtils {
 
     private CloseUtils() {

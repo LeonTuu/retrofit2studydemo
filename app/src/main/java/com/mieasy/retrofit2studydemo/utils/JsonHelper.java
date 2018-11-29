@@ -1,10 +1,5 @@
 package com.mieasy.retrofit2studydemo.utils;
 
-/**
- * Created by zhpan on 2017/5/27.
- * Description:Json Sting和Object相互转换工具类
- */
-
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 

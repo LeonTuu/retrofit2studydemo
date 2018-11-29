@@ -20,7 +20,8 @@ public abstract class BaseActivity extends RxAppCompatActivity {
     protected void showToast(String msg) {
         ToastUtils.show(msg);
     }
-
     protected abstract @LayoutRes int getLayoutId();
     protected abstract void init(Bundle savedInstanceState);
+
+
 }

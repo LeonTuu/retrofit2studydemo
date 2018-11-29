@@ -5,11 +5,6 @@ import android.content.Context;
 import com.mieasy.retrofit2studydemo.R;
 
 
-/**
- * Created by zhpan on 2017/5/26.
- * Description:
- */
-
 public class DialogUtils {
     //  加载进度的dialog
     private CustomProgressDialog mProgressDialog;

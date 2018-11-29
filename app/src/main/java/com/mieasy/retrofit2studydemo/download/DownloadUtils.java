@@ -17,9 +17,6 @@ import io.reactivex.schedulers.Schedulers;
 import okhttp3.OkHttpClient;
 import okhttp3.ResponseBody;
 
-/**
- * Created by zhpan on 2018/3/21.
- */
 
 public class DownloadUtils {
     private static final String TAG = "DownloadUtils";

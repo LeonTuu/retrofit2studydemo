@@ -19,14 +19,6 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
-/**
- * <pre>
- *     author: Blankj
- *     blog  : http://blankj.com
- *     time  : 2016/8/2
- *     desc  : 网络相关工具类
- * </pre>
- */
 public class NetworkUtils {
 
     private NetworkUtils() {

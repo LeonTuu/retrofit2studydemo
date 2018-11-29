@@ -3,11 +3,6 @@ package com.mieasy.retrofit2studydemo.utils;
 import java.nio.charset.Charset;
 import java.util.Calendar;
 
-/**
- * Created by jokerlee on 16-6-23.
- * 这是一个用于将不同数据类型转换为byte数组或者解码byte组为其它数据的工具类
- * Slc 设备基本采用高位在前的数据传输
- */
 public class DataConversionTools {
 
     public static byte[] intArrayToByteArray(int[] data){

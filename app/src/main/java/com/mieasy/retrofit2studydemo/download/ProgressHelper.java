@@ -7,9 +7,6 @@ import java.io.IOException;
 import okhttp3.Interceptor;
 import okhttp3.OkHttpClient;
 
-/**
- * Created by jun on 2017/1/21.
- */
 
 public class ProgressHelper {
 
